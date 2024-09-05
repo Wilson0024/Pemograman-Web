@@ -2,7 +2,7 @@
 
 Welcome to my web programming assignments repository! Here, I will gather all tasks related to the Web Programming course at Padjadjaran University.
 
-![Banner](https://media.giphy.com/media/3o7aD3oeO2SCEsFLa4/giphy.gif)
+![Banner](https://tenor.com/id/view/angry-cat-busy-laptop-gif-15731367)
 
 ## Identity
 
@@ -27,8 +27,13 @@ This repository contains a collection of assignments and projects from the Web P
        - A Biodata Form Page: Features a form for collecting biodata information, demonstrating form handling and validation using HTML and CSS.
 
 3. **[Assignment 3: Simple Calculator and Score Converter](./Tugas3)**
-   - **Description:** 
-     - This project includes a simple calculator and a score converter, built using HTML, CSS, and JavaScript. The calculator performs basic arithmetic operations, while the score converter translates numeric scores into letter grades.
+   - **Description:**
+     - This assignment includes two parts:
+       3. **[Assignment 3: Simple Calculator and Score Converter](./Tugas3)**
+   - **Description:**
+     - **Simple Calculator:** A web-based calculator that performs basic arithmetic operations (addition, subtraction, multiplication, division) using HTML, CSS, and JavaScript.
+     - **Score Converter:** A tool that converts numeric scores into letter grades, implemented using HTML, CSS, and JavaScript.
+
 
 Feel free to explore the projects and check out the code. If you have any questions or feedback, don't hesitate to reach out!
 
