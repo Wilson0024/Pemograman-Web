@@ -2,7 +2,7 @@
 
 Welcome to my web programming assignments repository! Here, I will gather all tasks related to the Web Programming course at Padjadjaran University.
 
-![Banner](https://c.tenor.com/oS5SFKhlWYwAAAAd/tenor.gif)
+![Banner]([https://c.tenor.com/oS5SFKhlWYwAAAAd/tenor.gif](https://c.tenor.com/bCfpwMjfAi0AAAAC/tenor.gif)
 
 ## Identity
 
@@ -29,10 +29,8 @@ This repository contains a collection of assignments and projects from the Web P
 3. **[Assignment 3: Simple Calculator and Score Converter](./Tugas3)**
    - **Description:**
      - This assignment includes two parts:
-       3. **[Assignment 3: Simple Calculator and Score Converter](./Tugas3)**
-   - **Description:**
-     - **Simple Calculator:** A web-based calculator that performs basic arithmetic operations (addition, subtraction, multiplication, division) using HTML, CSS, and JavaScript.
-     - **Score Converter:** A tool that converts numeric scores into letter grades, implemented using HTML, CSS, and JavaScript.
+        - **Simple Calculator:** A web-based calculator that performs basic arithmetic operations (addition, subtraction, multiplication, division) using HTML, CSS, and JavaScript.
+        - **Score Converter:** A tool that converts numeric scores into letter grades, implemented using HTML, CSS, and JavaScript.
 
 
 
