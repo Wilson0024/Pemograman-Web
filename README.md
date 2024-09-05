@@ -2,7 +2,7 @@
 
 Welcome to my web programming assignments repository! Here, I will gather all tasks related to the Web Programming course at Padjadjaran University.
 
-![Banner]([https://c.tenor.com/oS5SFKhlWYwAAAAd/tenor.gif](https://c.tenor.com/bCfpwMjfAi0AAAAC/tenor.gif)
+![Banner](https://c.tenor.com/bCfpwMjfAi0AAAAC/tenor.gif)
 
 ## Identity
 
