@@ -2,7 +2,7 @@
 
 Welcome to my web programming assignments repository! Here, I will gather all tasks related to the Web Programming course at Padjadjaran University.
 
-![Banner](https://tenor.com/id/view/work-office-computer-penguin-job-gif-10013904041284194281)
+![Banner](https://media.giphy.com/media/3o7aD3oeO2SCEsFLa4/giphy.gif)
 
 ## Identity
 
@@ -12,19 +12,24 @@ Welcome to my web programming assignments repository! Here, I will gather all ta
 
 ## Project Description
 
-This repository contains assignments and projects related to the Web Programming course. These tasks cover various aspects of web programming, including HTML, CSS, JavaScript, and more.
+This repository contains a collection of assignments and projects from the Web Programming course. The tasks cover a range of topics and technologies including HTML, CSS, and JavaScript. Below is a summary of each assignment:
 
 ### Submitted Assignments
 
 1. **[Assignment 1: Biodata Page](./Tugas1)**
-     Description:
-       - Displays personal information without table format using HTML.
+   - **Description:** 
+     - This assignment features a simple HTML page displaying personal information. The page is designed without a table format, showcasing basic HTML skills.
 
-3. **[Assignment 2: Biodata Page and Biodata Form Page](./Tugas2)**
-     Description: 
-       - Displays personal information using a table format using HTML and CSS.
-       - Features a form for collecting biodata information HTML and CSS.
+2. **[Assignment 2: Biodata Page and Biodata Form Page](./Tugas2)**
+   - **Description:** 
+     - This assignment includes two parts:
+       - A Biodata Page: Displays personal information in a table format using HTML and CSS.
+       - A Biodata Form Page: Features a form for collecting biodata information, demonstrating form handling and validation using HTML and CSS.
 
-4. **[Assignment 3: Simple Calculator and Score Converter](./Tugas3)**
-      Description:
-        - A simple calculator and Score Converter using HTML, CSS, and JavaScript.
+3. **[Assignment 3: Simple Calculator and Score Converter](./Tugas3)**
+   - **Description:** 
+     - This project includes a simple calculator and a score converter, built using HTML, CSS, and JavaScript. The calculator performs basic arithmetic operations, while the score converter translates numeric scores into letter grades.
+
+Feel free to explore the projects and check out the code. If you have any questions or feedback, don't hesitate to reach out!
+
+Thank you for visiting my repository!
