@@ -2,7 +2,7 @@
 
 Welcome to my web programming assignments repository! Here, I will gather all tasks related to the Web Programming course at Padjadjaran University.
 
-![Banner](https://tenor.com/id/view/angry-cat-busy-laptop-gif-15731367)
+![Banner](https://c.tenor.com/oS5SFKhlWYwAAAAd/tenor.gif)
 
 ## Identity
 
@@ -33,6 +33,7 @@ This repository contains a collection of assignments and projects from the Web P
    - **Description:**
      - **Simple Calculator:** A web-based calculator that performs basic arithmetic operations (addition, subtraction, multiplication, division) using HTML, CSS, and JavaScript.
      - **Score Converter:** A tool that converts numeric scores into letter grades, implemented using HTML, CSS, and JavaScript.
+
 
 
 Feel free to explore the projects and check out the code. If you have any questions or feedback, don't hesitate to reach out!
